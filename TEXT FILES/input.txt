@@ -1,0 +1,4 @@
+This is text file sample
+File name is input.txt 
+First Line of text
+Second Line of text

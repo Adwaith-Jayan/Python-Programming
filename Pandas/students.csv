@@ -1,0 +1,6 @@
+Name,Age,Department,Marks,Passed
+Alice,23,CS,88,True
+Bob,25,Math,92,True
+Charlie,22,Physics,79,False
+David,24,CS,85,True
+Eva,23,Math,90,True
